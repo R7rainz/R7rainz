@@ -1,10 +1,10 @@
-# 👋 Hey there, I'm Ronak Kamboj!  
+# 👋 Hey there, I'm **Ronak Kamboj**!
 
 ---
 
 ## 🌟 About Me  
 
-🎓 **CSE Undergrad** | 🧑‍💻 **Competitive Programmer** | 🌐 **Web Developer** | ⚽ **Football Enthusiast**  
+🎓 **CSE Undergrad** | 🧑‍💻 **Competitive Programmer** | 🌐 **Web Developer** | ⚽ **Football Enthusiast** | 🐧 **Linux User**  
 
 I’m a tech enthusiast with a passion for solving challenging problems and building innovative solutions. Whether it’s debugging code or playing football, I enjoy being in the zone where strategy meets execution. I'm constantly honing my skills in **competitive programming** and **web development**, striving to create meaningful and impactful projects.  
 
@@ -25,8 +25,8 @@ I’m a tech enthusiast with a passion for solving challenging problems and buil
 ![VSCode](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 
 ---
 
@@ -42,7 +42,7 @@ I’m a tech enthusiast with a passion for solving challenging problems and buil
 ## 🚀 Projects  
 
 - **[Portfolio Website](https://bento.me/rainz)**: Built a responsive personal portfolio using HTML, CSS, and JavaScript.  
-- **[AI Powered Note Taking Applicatoin](https://brainbox-mu.vercel.app/)**
+- **[Brainbox](https://brainbox-mu.vercel.app/)**: An AI-powered note-taking app built with Next.js, Firebase (backend), Liveblocks for real-time collaboration, and TailwindCSS for styling.  
 
 ---
 
@@ -64,6 +64,7 @@ I’m a tech enthusiast with a passion for solving challenging problems and buil
 - ⚽ A football fanatic who loves analyzing matches as much as playing them.  
 - 🌱 Currently learning **ReactJS** to expand my web development toolkit.  
 - 🎮 Avid gamer in my downtime—my favorite genres are action and strategy!  
+- 🐧 A Linux user with a passion for customizing my system, currently running **Ubuntu** with the **i3 window manager**. I’ve tried various distros and am diving into **Neovim**!  
 
 ---
 
