@@ -42,8 +42,7 @@ I’m a tech enthusiast with a passion for solving challenging problems and buil
 ## 🚀 Projects  
 
 - **[Portfolio Website](https://bento.me/rainz)**: Built a responsive personal portfolio using HTML, CSS, and JavaScript.  
-- **[Football Stats Dashboard](#)**: Created a data visualization dashboard for football match stats using Python and Flask.  
-- **[Coding Problem Tracker](#)**: Developed a tracker to manage solved coding problems on competitive platforms like Codeforces and LeetCode.  
+- **[AI Powered Note Taking Applicatoin](https://brainbox-mu.vercel.app/)**
 
 ---
 
