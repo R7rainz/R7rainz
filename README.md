@@ -49,12 +49,12 @@ I’m a tech enthusiast with a passion for solving challenging problems and buil
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rainz&show_icons=true&theme=radical" alt="Ronak's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rainz&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=R7rainz&show_icons=true&theme=radical" alt="Ronak's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R7rainz&theme=radical" alt="GitHub Streak" width="48%"/>
 </div>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainz&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R7rainz&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </div>  
 
 ---
