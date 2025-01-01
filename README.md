@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rainz!  
+# 👋 Hi, I'm Ronak Kamboj!  
 
 ---
 
@@ -12,8 +12,8 @@ I’m a **CSE undergrad** with a keen interest in **competitive programming**, *
 
 ### Programming Languages  
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-Proficient-blue?style=for-the-badge&logo=python"/></a>  
-<a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=cplusplus"/></a>  
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python"/></a>  
+<a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C++-Proficient-red?style=for-the-badge&logo=cplusplus"/></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript"/></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-Proficient-orange?style=for-the-badge&logo=html5"/></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-Proficient-blue?style=for-the-badge&logo=css3"/></a>
