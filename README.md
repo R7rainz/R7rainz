@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E8EFB&center=true&vCenter=true&width=435&lines=CSE+Undergrad;Competitive+Programmer;Web+Developer;Football+Enthusiast;Linux+Aficionado" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=R7rainz&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=R7rainz&color=red)
 
 </div>
 
