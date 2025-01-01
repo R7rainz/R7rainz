@@ -50,23 +50,6 @@ I'm a tech enthusiast with a passion for solving challenging problems and buildi
 
 </div>
 
-<details>
-<summary>🔥 Click to see my skill progress!</summary>
-
-<div align="center">
-
-| Skill | Progress |
-|-------|----------|
-| C++ | ![90%](https://progress-bar.dev/90) |
-| Python | ![85%](https://progress-bar.dev/85) |
-| JavaScript | ![80%](https://progress-bar.dev/80) |
-| Next.js | ![75%](https://progress-bar.dev/75) |
-| Linux | ![70%](https://progress-bar.dev/70) |
-
-</div>
-
-</details>
-
 ## 🚀 Projects
 
 <details>
