@@ -76,10 +76,10 @@ I'm a tech enthusiast with a passion for solving challenging problems and buildi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R7rainz&show_icons=true&theme=radical" alt="Ronak's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R7rainz&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R7rainz&theme=radical" alt="GitHub Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R7rainz&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R7rainz&theme=radical" width="45%" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=R7rainz&theme=radical" width="45%" alt="Top Languages by Commit" />
 </div>
