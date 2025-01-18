@@ -10,6 +10,8 @@
 
 ## 🌟 About Me
 
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+
 I'm a tech enthusiast with a passion for solving challenging problems and building innovative solutions. Whether I'm crafting elegant code or executing precise passes on the football field, I thrive in environments where strategy meets execution. My journey in tech is an exciting blend of competitive programming, web development, and exploring the vast Linux ecosystem.
 
 <details>
@@ -32,7 +34,12 @@ I'm a tech enthusiast with a passion for solving challenging problems and buildi
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Appwrite](https://img.shields.io/badge/-Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -48,9 +55,13 @@ I'm a tech enthusiast with a passion for solving challenging problems and buildi
 |:-------------------------:|:------------------------------:|
 | **🚀 Crafted Dynamic Web Apps** | **🏆 Orchestrated Coding Events** |
 
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding Skills" width="200">
+
 </div>
 
 ## 🚀 Projects
+
+<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200">
 
 <details>
 <summary>📂 Explore my digital creations</summary>
@@ -76,10 +87,25 @@ I'm a tech enthusiast with a passion for solving challenging problems and buildi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R7rainz&theme=radical" alt="GitHub Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=R7rainz&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R7rainz&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=R7rainz&theme=radical" width="45%" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=R7rainz&theme=radical" width="45%" alt="Top Languages by Commit" />
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Coding Animation" width="300">
 </div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R7rainz)
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
+
