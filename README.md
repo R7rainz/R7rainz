@@ -14,15 +14,10 @@
 
 I'm a tech enthusiast with a passion for solving challenging problems and building innovative solutions. Whether I'm crafting elegant code or executing precise passes on the football field, I thrive in environments where strategy meets execution. My journey in tech is an exciting blend of competitive programming, web development, and exploring the vast Linux ecosystem.
 
-<details>
-<summary>🔍 Click to uncover more about me!</summary>
-
 - 🧠 I believe in the power of continuous learning and pushing boundaries.
 - 🌐 My goal is to create tech that makes a positive impact on the world.
 - 🎭 I'm an ambivert who enjoys both collaborative projects and deep solo coding sessions.
 - 📚 When I'm not coding, you'll find me buried in tech blogs or football analytics.
-
-</details>
 
 ## 💻 Tech Stack
 
@@ -45,6 +40,8 @@ I'm a tech enthusiast with a passion for solving challenging problems and buildi
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+<img align="right" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding Skills" width="200">
+
 </div>
 
 ## 🏆 Achievements & Skills
@@ -55,16 +52,11 @@ I'm a tech enthusiast with a passion for solving challenging problems and buildi
 |:-------------------------:|:------------------------------:|
 | **🚀 Crafted Dynamic Web Apps** | **🏆 Orchestrated Coding Events** |
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding Skills" width="200">
-
 </div>
 
 ## 🚀 Projects
 
 <img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200">
-
-<details>
-<summary>📂 Explore my digital creations</summary>
 
 1. **[Bento Portfolio](https://bento.me/rainz)**
    - A sleek, modern portfolio showcasing my skills and projects.
@@ -81,8 +73,6 @@ I'm a tech enthusiast with a passion for solving challenging problems and buildi
    - A passion project combining my love for football and AI.
    - Analyzes football matches and suggests tactical improvements.
    - Stay tuned for the release!
-
-</details>
 
 ## 📊 GitHub Stats
 
