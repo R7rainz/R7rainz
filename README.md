@@ -69,10 +69,12 @@ I'm a tech enthusiast with a passion for solving challenging problems and buildi
    - Styled with TailwindCSS for a modern, responsive design.
    - Integrates advanced AI capabilities for smart note organization.
 
-3. **[Coming Soon] FootballTacticAI**
-   - A passion project combining my love for football and AI.
-   - Analyzes football matches and suggests tactical improvements.
-   - Stay tuned for the release!
+3. **🚀 CodeQuest Lite**  
+   - A dedicated coding challenge tracker for programmers.  
+   - Helps users organize, track, and analyze their coding journey.  
+   - Features tagging, search, and detailed progress tracking.  
+   - Stay tuned for upcoming enhancements! 🚀  
+
 
 ## 📊 GitHub Stats
 
