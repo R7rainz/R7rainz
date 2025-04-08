@@ -69,7 +69,7 @@ I'm a tech enthusiast with a passion for solving challenging problems and buildi
    - Styled with TailwindCSS for a modern, responsive design.
    - Integrates advanced AI capabilities for smart note organization.
 
-3. **🚀 CodeQuest Lite**  
+3. **🚀 [CodeQuest Lite](https://codequest-lite.vercel.app/)**
    - A dedicated coding challenge tracker for programmers.  
    - Helps users organize, track, and analyze their coding journey.  
    - Features tagging, search, and detailed progress tracking.  
