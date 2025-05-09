@@ -64,22 +64,18 @@ I'm a tech enthusiast with a passion for solving challenging problems and buildi
 
 <img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200">
 
-1. **[Bento Portfolio](https://bento.me/rainz)**
-   - A sleek, modern portfolio showcasing my skills and projects.
-   - Leverages Bento's intuitive design for an engaging user experience.
-   - Highlights my journey in tech and personal achievements.
-
+1.**[CodeQuest Lite](https://codequest-lite.vercel.app/)**
+   - A dedicated coding challenge tracker for programmers.  
+   - Helps users organize, track, and analyze their coding journey.  
+   - Features tagging, search, and detailed progress tracking.
+     
 2. **[Brainbox](https://brainbox-mu.vercel.app/)**
    - An AI-powered note-taking app built with Next.js and Firebase.
    - Features real-time collaboration using Liveblocks.
    - Styled with TailwindCSS for a modern, responsive design.
    - Integrates advanced AI capabilities for smart note organization.
 
-3. **🚀 [CodeQuest Lite](https://codequest-lite.vercel.app/)**
-   - A dedicated coding challenge tracker for programmers.  
-   - Helps users organize, track, and analyze their coding journey.  
-   - Features tagging, search, and detailed progress tracking.  
-   - Stay tuned for upcoming enhancements! 🚀  
+3. 
 
 ## 📊 GitHub Stats
 
