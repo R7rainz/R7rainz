@@ -1,107 +1,88 @@
 <div align="center">
-
-# 👋 Hey there, I'm **Ronak Kamboj**!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E8EFB&center=true&vCenter=true&width=435&lines=CSE+Undergrad;Competitive+Programmer;Web+Developer;Football+Enthusiast;Linux+Aficionado" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=R7rainz&color=red)
-
+  <h1>👋 Hey, I'm Ronak Kamboj</h1>
+  <p><em>Full Stack Developer • Competitive Programmer • CSE Undergrad</em></p>
 </div>
 
-## 🌟 About Me
+<br>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+## 🚀 About Me
 
-I'm a tech enthusiast with a passion for solving challenging problems and building innovative solutions. Whether I'm crafting elegant code or executing precise passes on the football field, I thrive in environments where strategy meets execution. My journey in tech is an exciting blend of competitive programming, web development, and exploring the vast Linux ecosystem.
+I'm a developer passionate about solving complex problems and building scalable solutions. My work spans competitive programming, full-stack development, and system design—always focused on creating technology that makes a real impact.
 
-- 🧠 I believe in the power of continuous learning and pushing boundaries.
-- 🌐 My goal is to create tech that makes a positive impact on the world.
-- 🎭 I'm an ambivert who enjoys both collaborative projects and deep solo coding sessions.
-- 📚 When I'm not coding, you'll find me buried in tech blogs or football analytics.
+- 🧩 Algorithmic thinker with a competitive programming mindset
+- 💻 Building production-ready applications with modern web technologies
+- 🏗️ Deep interest in system design, backend optimization, and clean architecture
+- 🌱 Active contributor to open source and technical communities
+- 📚 Continuous learner, always exploring new tools and methodologies
 
-## 💻 Tech Stack
+<br>
 
-<div align="center">
+## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### Frontend & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Appwrite](https://img.shields.io/badge/-Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Backend & Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 
-### Editors
-![VSCode](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
-<img align="right" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding Skills" width="200">
+<br>
+
+## 🏆 Achievements
+
+🎖️ **Mr. Diligent Award** — Recognized for exceptional dedication and commitment (SPS SN)
+
+💯 **100+ DSA Problems Solved** — Active competitive programmer across multiple platforms
+
+🚀 **Production Deployments** — Successfully deployed and maintained full-stack applications in live environments
+
+🎯 **Technical Leadership** — Organized and led coding competitions and technical events
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R7rainz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R7rainz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=R7rainz&theme=github-dark-blue&hide_border=true&background=0d1117)
 
 </div>
 
-## 🏆 Achievements & Skills
+<br>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-| 🌟 Mr. Diligent by SPS SN | 💯 Conquered 100+ DSA Problems |
-|:-------------------------:|:------------------------------:|
-| **🚀 Crafted Dynamic Web Apps** | **🏆 Orchestrated Coding Events** |
-
-</div>
-
-## 🚀 Projects
-
-<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200">
-
-1.**[CodeQuest Lite](https://codequest-lite.vercel.app/)**
-   - A dedicated coding challenge tracker for programmers.  
-   - Helps users organize, track, and analyze their coding journey.  
-   - Features tagging, search, and detailed progress tracking.
-     
-2. **[Brainbox](https://brainbox-mu.vercel.app/)**
-   - An AI-powered note-taking app built with Next.js and Firebase.
-   - Features real-time collaboration using Liveblocks.
-   - Styled with TailwindCSS for a modern, responsive design.
-   - Integrates advanced AI capabilities for smart note organization.
-
-3. 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R7rainz&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R7rainz&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=R7rainz&theme=radical" alt="GitHub Streak" width="70%" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Coding Animation" width="300">
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ronak-kamboj-9781a9276/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/RAINZ_2607)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-kamboj-9781a9276/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RAINZ_2607)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R7rainz)
 
 </div>
 
+---
+
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <p><em>💡 Open to collaboration and interesting opportunities — let's build something amazing together!</em></p>
 </div>
