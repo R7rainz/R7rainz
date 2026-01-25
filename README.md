@@ -65,7 +65,7 @@ I'm a developer passionate about solving complex problems and building scalable 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R7rainz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=R7rainz&theme=github-dark-blue&hide_border=true&background=0d1117)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=r7rainz)](https://git.io/streak-stats)
 
 </div>
 
