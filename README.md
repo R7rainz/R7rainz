@@ -60,13 +60,9 @@ I'm a developer passionate about solving complex problems and building scalable 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R7rainz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R7rainz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=r7rainz)](https://git.io/streak-stats)
-
+  <a href="https://github.com/hurtki/github-banners" target="_blank">
+    <img src="https://bnrs.sevaed.com/banners/r7rainz-dark" alt="Banner" />
+  </a>
 </div>
 
 <br>
