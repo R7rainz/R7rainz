@@ -61,7 +61,7 @@ I'm a developer passionate about solving complex problems and building scalable 
 
 <div align="center">
   <a href="https://github.com/hurtki/github-banners" target="_blank">
-    <img src="https://bnrs.sevaed.com/banners/R7rainz-dark?a=a" alt="Banner" />
+    <img src="https://api.bnrs.dev/banners/R7rainz-dark?a=a" alt="Banner" />
   </a>
 </div>
 
